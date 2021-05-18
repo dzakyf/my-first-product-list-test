@@ -1,4 +1,9 @@
+## Hello
+this is react based minimal, no authentication website for showing product list. With yarn as the package manager.
+
 ## Available Routes
 
-product list for admin page visit /admin/product-list
-product list for guest visit /product-list
+|    Available Route | |
+| ----------- | ----------- |
+| Admin      | /admin/product-list       |
+| Guest/Casual user/buyer   | /product-list      |
